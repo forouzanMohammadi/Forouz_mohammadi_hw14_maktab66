@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn{
+    color: #fff;
+    background-color: brown;
+    border: 1px solid brown;
+    padding: 10px;
+    margin: 10px;
+}
